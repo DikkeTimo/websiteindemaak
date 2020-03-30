@@ -1,0 +1,78 @@
+html{
+    height: 100%;
+}
+
+
+body {
+    background-color: #2F3035;
+    background-image: url(images/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    height: 118px;
+    text-align: center;
+}
+
+nav {   
+    background-color: rgba(109, 101, 106, 0.301);
+    height: 25px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+
+main {   
+    height: 450px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 248px;
+    padding-right: 248px;
+}
+
+footer {   
+    background-color: rgba(79, 80, 80, 0.541);  
+    height: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h1 {
+    font-size: 84px;
+    color: rgba(163, 163, 165, 0.938);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+p {
+    font-size: 18px;
+    color: rgba(241, 241, 241, 0.815);
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /*  */
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+footer p {
+    font-size: 14px;
+    text-align: center;
+}
